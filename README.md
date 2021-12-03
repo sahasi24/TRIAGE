@@ -1,0 +1,2 @@
+# TRIAGE
+Triage decision making is critical for a successful response to a mass casualty incident. How triage is applied differs across the surge response spectrum from conventional to crisis response. Mass casualty triage is a complex topic with which most clinicians have limited experience and with which most clinicians often have difficulty in making the shift from the patient to population perspective to understand it well. Further training and research are necessary to advance this field and better prepare intensive care clinicians to respond to disasters. 
